@@ -5,8 +5,11 @@ worked successfully: https://radixweb.com/blog/installing-npm-and-nodejs-on-wind
 
 Once preReqs are installed, open a command prompt and navigate to the location of this code.
 Once in the correct directory, run: 
+
 npm install readline
+
 then run:
+
 node iACentralFill.js
 
 at this point the program should start and accept your coordinate input.
